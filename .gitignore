@@ -57,3 +57,4 @@ nb-configuration.xml
 .classpath
 .settings/
 .json
+.gitignore
